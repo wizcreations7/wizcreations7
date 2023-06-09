@@ -3,7 +3,7 @@
 ![Wiz's github stats](https://github-readme-stats.vercel.app/api?username=wiz-7777)
 -->
 
-<h1 align="center">Hi 👋, I'm Wiz</h1>
+<h1 align="center">Hey there, I'm Wiz.</h1>
 <h3 align="center">Geek by day, Wizard by night. Coding my way through the digital cosmos, one line at a time.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
