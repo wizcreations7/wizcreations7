@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h3 align="center">Geek by day, Wizard by night. Coding my way through the digital cosmos, one line at a time.</h3>
-⮞ Multi-Language Programmer<br>⮞ Discord.JS Developer[/u]<br>⮞ Professional Graphics Artist<br>⮞ Systems Administrator<br>⮞ Musical Effects Producer<br>⮞ Sound Engineer<br>⮞ Technical Writer<br>⮞ Visual Effects Designer<br><br>LumiCore Innovations - Founder & CEO<br>Sacred Territories - Co-Owner<br>Final Form Entertainment - Head of Technology
+⮞ Multi-Language Programmer<br>⮞ Discord.JS Developer<br>⮞ Professional Graphics Artist<br>⮞ Systems Administrator<br>⮞ Musical Effects Producer<br>⮞ Sound Engineer<br>⮞ Technical Writer<br>⮞ Visual Effects Designer<br><br>LumiCore Innovations - Founder & CEO<br>Sacred Territories - Co-Owner<br>Final Form Entertainment - Head of Technology
 
 
 ## 🌐 Socials:
