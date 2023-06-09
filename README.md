@@ -1,6 +1,6 @@
 # 💫 Who is Wiz?
 <h3 align="center">Geek by day, Wizard by night. Coding my way through the digital cosmos, one line at a time.</h3>
-⮞ Multi-Language Programmer<br>⮞ Discord.JS Developer<br>⮞ Professional Graphics Artist<br>⮞ Systems Administrator<br>⮞ Musical Effects Producer<br>⮞ Sound Engineer<br>⮞ Technical Writer<br>⮞ Visual Effects Designer<br><br><b>LumiCore Innovations</b> - <i>Founder & CEO</i><br><b>Sacred Territories</b> - <i>Co-Owner</i><br><b>Final Form Entertainment</b> - <i>Head of Technology</i>
+⮞ Multi-Language Programmer<br>⮞ Discord.JS Developer<br>⮞ Professional Graphics Artist<br>⮞ Systems Administrator<br>⮞ Musical Effects Producer<br>⮞ Sound Engineer<br>⮞ Technical Writer<br>⮞ Visual Effects Designer<br><br><b>LumiCore Innovations</b> - <i>Founder & CEO</i><br><b>Sacred Territories</b> - <i>Co-Owner</i><br><b>Final Form Entertainment</b> - <i>Head of Technology</i><br><b>Melon Patch League</b> - <i>Back End Developer</i><br><b>Dire Media Solutions</b> - <i>Graphics Designer</i><br><b>Pandez Labs</b> - <i>Independent Contractor</i><br><b>Niixodus Interactive</b> - <i>Administrator & Coordinator</i>
 
 ### ✏️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
