@@ -9,7 +9,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 📊 GitHub Stats
-<!-- ![](https://github-readme-stats.vercel.app/api?username=wizcreations7&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=wizcreations7&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wizcreations7&theme=nord&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wizcreations7&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
