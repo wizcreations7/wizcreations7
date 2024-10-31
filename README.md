@@ -11,7 +11,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/universal-logger-pro.svg?style=flat-square)](https://www.npmjs.com/package/universal-logger-pro)
 [![GitHub license](https://img.shields.io/github/license/wizcreations7/universal-logger-pro.svg?style=flat-square)](https://github.com/wizcreations7/universal-logger-pro/blob/main/LICENSE)
 
-A universal logging solution with 40+ specialized log types. Perfect for any JavaScript/TypeScript project.
+A comprehensive logging solution for JavaScript/TypeScript projects with 40+ specialized log types, file rotation, and structured logging support.
 
 ```typescript
 const { Logger } = require('universal-logger-pro');
